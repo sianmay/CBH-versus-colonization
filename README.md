@@ -4,7 +4,7 @@
 
 1. Copy the repository:
 ```bash
-git clone https://github.com/anonymousG26/CBH-versus-colonization.git
+git clone https://github.com/sianmay/CBH-versus-colonization.git
 cd colonization-neuroevolution
 ```
 
