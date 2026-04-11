@@ -5,7 +5,7 @@
 1. Copy the repository:
 ```bash
 git clone https://github.com/sianmay/CBH-versus-colonization.git
-cd colonization-neuroevolution
+cd CBH-versus-colonization
 ```
 
 2. (Optional) Set up a Python virtual environment
